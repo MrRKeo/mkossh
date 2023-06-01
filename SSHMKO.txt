@@ -1,11 +1,10 @@
 {
 "Version":"4.18",
-"Url":"https://github.com/MrRKeo/mkossh/blob/main/sshxmok.zip",
+"Url":"https://raw.githubusercontent.com/MrRKeo/mkossh/main/sshxmok.zip",
 "Changelog":"
 🇸🇬Singapore Server Free5ថ្ងៃ
 🇹🇭Thailand Free7ថ្ងៃ
 🚀 ល្បឿនលឿន 🚀
-♨️ VPN NET ឥតគិតថ្លៃ♨️
 🙏អរគុណសម្រាប់ការលើកទឹកចិត្ត
 🧑‍💻លេងដោយការទទួលការខុសត្រូវរៀបចំដោយ👉M͢.͢K͢.͢O͢.͢T͢E͢A͢M͢
 ",
